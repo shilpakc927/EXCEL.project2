@@ -8,7 +8,7 @@ This Excel dashboard project visualizes key business metrics from a Superstore s
 1.Dashboard Title -
   Bold header: "SUPERSTORE DASHBOARD" indicates this is a consolidated overview for management/decision-makers.
 
-2. Time-based Filters -
+2.Time-based Filters -
 Months (Jan–Dec) and Years (2013–2016) allow dynamic filtering of the data for trend analysis over time.
 Days of the week filter (Fri to Wed) helps understand daily performance patterns.
 
@@ -18,7 +18,7 @@ Total Sales: ₹4,28,975.00 – Revenue from all transactions.
 Total Profit: ₹51,517.00 – Total profit after costs.
 Profit Percentage: 12.00% – Profit margin.
 
-Charts & Visuals:
+4.Charts & Visuals:
 Top 10 Product Sales vs. Profit (Line Chart) – Comparison of best-selling products vs. their profitability.
 QTY Sales by Ship Mode (Pie Chart) – Distribution of orders by shipping method (First Class, Standard, etc.).
 Sales by Segment (Donut Chart) – Consumer, Corporate, and Home Office segmentation.
@@ -26,7 +26,7 @@ Top 5 Manufacturers (Treemap) – Major contributors to sales.
 Top 10 Cities (Bar Chart) – Geographical hotspots by revenue.
 Sales QTY by Region (Area Chart) – Regional performance comparison.
 
-Interactive Slicers:
+5.Interactive Slicers:
 For Month, Day, Year, and possibly Region or Product – lets users filter visuals instantly without altering the raw data.
 
 🛠️ Tools and Features Used:
