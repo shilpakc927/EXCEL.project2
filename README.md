@@ -78,6 +78,8 @@ It demonstrates how **Microsoft Excel** can still be a powerful tool for data an
 
 ## 📬 Contact
 
+For questions or collaboration:
+
 **Shilpa K C**  
-Excel & BI Projects  
-[LinkedIn](https://www.linkedin.com/in/your-profile) | [Email](mailto:your.email@example.com)
+Data Science Intern  
+[LinkedIn](https://www.linkedin.com/in/shilpa-kc) | [Email](shilpakcc@gmail.com)
