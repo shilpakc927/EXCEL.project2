@@ -62,6 +62,10 @@ This Excel Superstore Dashboard project helped in:
 It demonstrates how **Microsoft Excel** can still be a powerful tool for data analysis and storytelling when BI tools like Power BI or Tableau are unavailable.
 
 ---
+## 📁 Files Included
+- `superstoredata project2.xslx` – Excel file with dashboard and raw data
+- `superstoredata project2.pdf` – Dashboard preview image
+
 
 ## 📂 How to Use
 
