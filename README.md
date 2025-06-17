@@ -2,6 +2,7 @@
 
 This Excel-based dashboard project visualizes key insights from **Superstore sales data**, offering an interactive and comprehensive view of performance metrics such as sales, profit, and quantity across regions, segments, ship modes, manufacturers, and time.
 
+---
 ## 📌 Project Overview
 
 The Superstore Dashboard project leverages **Microsoft Excel** to build a visually intuitive interface for analyzing sales performance. It provides actionable insights through dynamic charts, slicers, and calculated metrics to help stakeholders monitor top-performing products, profitable regions, and customer segments.
@@ -66,7 +67,7 @@ It demonstrates how **Microsoft Excel** can still be a powerful tool for data an
 - `superstoredata project2.xslx` – Excel file with dashboard and raw data
 - `superstoredata project2.pdf` – Dashboard preview image
 
-
+---
 ## 📂 How to Use
 
 1. Open the `.xlsx` file in Microsoft Excel (2016 or later recommended).
