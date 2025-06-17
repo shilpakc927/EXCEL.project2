@@ -64,8 +64,8 @@ It demonstrates how **Microsoft Excel** can still be a powerful tool for data an
 
 ---
 ## 📁 Files Included
-- `superstoredata project2.xslx` – Excel file with dashboard and raw data
-- `superstoredata project2.pdf` – Dashboard preview image
+- `Superstoredata project2.xslx` – Excel file with dashboard and raw data
+- `Superstoredata project2.pdf` – Dashboard preview image
 
 ---
 ## 📂 How to Use
