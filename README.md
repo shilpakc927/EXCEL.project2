@@ -76,7 +76,11 @@ It demonstrates how **Microsoft Excel** can still be a powerful tool for data an
 4. Charts and KPIs will update dynamically based on filter selections.
 
 ---
+## 📸 Project Screenshot
 
+- [Dashboard Screenshot](Screenshot%2092.png)
+
+---  
 ## 📬 Contact
 
 For questions or collaboration:
